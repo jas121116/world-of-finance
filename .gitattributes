@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test page</title>
+</head>
+<body>
+	<h1>hey im a heading</h1>
+	<p>im a <b>paragraph.</b> cool huh? </p>
+	<p>hello welcome</p>
+	<a href="https://skillshare.com" target="_blank" title="lets go to skillshare">Click me!!</a>
+	<p>My name is: <br>
+	koo </p>
+	<img src="C:\Users\jasmi\OneDrive\Pictures\school work\jungkook.jpg">
+</body>
+</html>
